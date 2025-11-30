@@ -6,7 +6,8 @@ Product leader (AI & SaaS) focused on:
 - B2B & enterprise workflows
 
 ## 🚀 Current Work
-- Agentic Product & Growth Lead @ Agentman  (check out my meeting booker agent using cal.com here https://github.com/gayatriseeth/cal-scheduling-agent
+- Agentic Product & Growth Lead @ Agentman
+  -  Check out my meeting booker agent using Agentman and cal.com here https://github.com/gayatriseeth/cal-scheduling-agent
 - Building AI agents for ecommerce + healthcare - conversational & automation
 
 ## 🧠 Selected Projects
