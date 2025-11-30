@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi I'm Gayatri 👋
 
-<!--
-**gayatriseeth/gayatriseeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product leader (AI & SaaS) focused on:
+- Agentic platforms & generative AI
+- Data-driven onboarding & growth
+- B2B & enterprise workflows
 
-Here are some ideas to get you started:
+## 🚀 Current Work
+- Agentic Product & Growth Lead @ Agentman  
+- Building AI agents for ecommerce + healthcare - conversational & automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Selected Projects
+- AI Agent Platform – agentic workflows for independent medical clinics & e-commerce
+- Digital Learning Platform @ Autodesk – 20,000+ users, 200% YoY growth
+- Onboarding & Retention – drove 70% MAU increase using analytics & experiments
+
+## 🛠 Skills
+- Product: Roadmapping, discovery, experimentation, PLG
+- AI/Tech: Generative AI, agentic workflows, APIs, Python (light)
+- Data: A/B testing, analytics dashboards (Adobe, PowerBI)
+
+## 📫 Get in touch
+- LinkedIn: [linkedin.com/in/gseetharaman](https://www.linkedin.com/in/gseetharaman/)
