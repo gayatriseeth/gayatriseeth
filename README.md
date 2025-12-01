@@ -17,7 +17,7 @@ Product leader (AI & SaaS) focused on:
 
 ## 🛠 Skills
 - Product: Roadmapping, discovery, experimentation, PLG
-- AI/Tech: Generative AI, agentic workflows, APIs, Python (light)
+- AI/Tech: Generative AI, agentic workflows, APIs, Python
 - Data: A/B testing, analytics dashboards (Adobe, PowerBI)
 
 ## 📫 Get in touch
